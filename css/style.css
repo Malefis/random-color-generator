@@ -1,0 +1,15 @@
+body{
+  background-color: orange;
+}
+.colorOutput{
+  width: 70vh;
+  height: 70vh;
+}
+#createHex{
+  background-color: grey;
+  color: white;
+  width: 20vw;
+}
+.colorOutput{
+  border: 2px solid white;
+}
